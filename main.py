@@ -73,8 +73,8 @@ from collections import namedtuple
 # db = {'name': 'banana', 'color': 'yellow', 'tami': 'shirin'}
 # print(Friut(**db))
 
-# bmw = Car('ananas', 'brown', 'nordon, shirin')
-# new_fruit = bmw._replace(color='yellow')
+# ananas = Fruit('ananas', 'brown', 'nordon, shirin')
+# new_fruit = ananas._replace(color='yellow')
 # print(new_fruit.color)
 
 
